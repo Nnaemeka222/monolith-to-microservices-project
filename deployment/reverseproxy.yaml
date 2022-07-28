@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: reverseproxy
-        image: docker.io/newthingade/reverseproxy
+        image: Nnaemeka222/reverseproxy
         ports:
         - containerPort: 80
         resources:
